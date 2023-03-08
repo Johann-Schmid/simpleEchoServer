@@ -37,4 +37,4 @@ if __name__ == '__main__':
                     bytes_obj = string.encode('utf-8')
                     client_socket.sendall(bytes_obj)
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# Visit my page at https://www.schmid-johann.de
